@@ -1,2 +1,2 @@
 # AlgorithmsForBigData
-Apriori and SON algorithms 
+Detecting frequent itemsets using Apriori and SON algorithm
